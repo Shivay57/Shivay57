@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocurrency and web3
 - 🌱 I’m currently in college
 - 💞️ I’m looking to collaborate on new defi projects
-- 📫 How to reach me ...
+- 📫 How to reach me bt tagging me
 
 <!---
 Shivay57/Shivay57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
